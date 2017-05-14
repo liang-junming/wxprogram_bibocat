@@ -28,12 +28,6 @@
       {
         "iconPath": "image/icon_API.png",
         "selectedIconPath": "image/icon_API_HL.png",
-        "pagePath": "pages/logs/logs",
-        "text": "日志"
-      },
-      {
-        "iconPath": "image/wechat.png",
-        "selectedIconPath": "image/wechatHL.png",
         "pagePath": "pages/mytest/mytest",
         "text": "我的新建页面1"
       }
